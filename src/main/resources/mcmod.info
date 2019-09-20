@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "armoryexpansion-bitsandpieces",
+    "name": "Armory Expansion - Bits and pieces",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/armory-expansion-bits-and-pieces",
+    "authorList": ["YaibaToKen"],
+    "parent": "armoryexpansion"
+  }
+]
